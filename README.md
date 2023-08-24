@@ -1,2 +1,2 @@
-# CalculationProject
-Projeto de calculadora para portifólio e treino de códigos em HTML, CSS e Javascript.
+# ProjetoAuladeDOM
+Projeto de DOM para entrega no curso de Javascript na CoderHouse. 
